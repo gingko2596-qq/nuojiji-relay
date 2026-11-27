@@ -29,3 +29,6 @@ class_name = "WechatBridge"
 [[migrations]]
 tag = "wechat-v1"
 new_sqlite_classes = ["WechatBridge"]
+
+[observability]
+enabled = true
